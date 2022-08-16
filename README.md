@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<h1 align="center">Weather App</h1> 
+<br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](./src/assets/weatherApp.png)
 
-## Available Scripts
+<br/>
+<h2 align="center">Web application to show the current and upcoming week weather forecast.</h2> 
 
-In the project directory, you can run:
+<br/>
 
-### `npm start`
+<h3 align="center"><a href="https://incandescent-toffee-012bd4.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is about building a web application to show a weather forecast using weather API from external services [Open weather map](https://openweathermap.org/). Here you will be able to search for a specific location in the world and also it will automatically detect your current location in the beginning (for that you need to allow location) and will display all the important weather details.
 
-### `npm test`
+It has some cool features like you can search for weather details according to the city names, detect your current location for displaying weather data, show the weather details in both degree celcius and fahrenheit temperatures, sync data to get the latest updated details of the current weather, toaster notification for every action, shows hourly weather forecast of the selected city for the next 5 hours and daily forecast for the next 5 days. It also has a feature to change the background colour of the application based on hot or cold temperature regions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To use the app, type a name of the city and click on search or else click on the Your location weather button.
 
-### `npm run build`
+## 🚀 Features
+- Search weather details according to the city
+- Detect your current location for displaying weather data
+- Sync data to get the latest updated details of the current weather
+- Toast notification for every action
+- Shows details in both degree celius and fahrenheit
+- Shows hourly weather forecast for the next 5 hours
+- Shows daily weather forecast for the next 5 days
+- Changes background colour based on hot or cold temperature regions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Run Locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Pre-Requisite : 
+VS Code
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+#   https://github.com/aakarsh604/React_WeatherApp.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<br/>
+### Tools used on this project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Visual Studio Code
+- Heroku
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br/>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you want to contact me, you can reach me through below handles.
 
-### Making a Progressive Web App
+[![linkedin](https://img.shields.io/badge/aakrsh604?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakarsh-devadiga-416a901a5/)
+[![Twitter](https://img.shields.io/badge/aakrsh604?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aakrsh604/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+© 2022 Aakarsh Devadiga
 
-### Advanced Configuration
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
