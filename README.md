@@ -1,7 +1,7 @@
 <h1 align="center">Weather App</h1> 
 <br/>
 
-![](./src/assets/weatherApp.png)
+![](./src/assets//weatherApp.png)
 
 <br/>
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2> 
