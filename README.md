@@ -43,8 +43,8 @@ Clone the project
 #   https://github.com/aakarsh604/React_WeatherApp.git
 ```
 
-
 <br/>
+
 ### Tools used on this project
 
 - Visual Studio Code
@@ -52,14 +52,6 @@ Clone the project
 
 <br/>
 
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/aakrsh604?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakarsh-devadiga-416a901a5/)
-[![Twitter](https://img.shields.io/badge/aakrsh604?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aakrsh604/)
 
 © 2022 Aakarsh Devadiga
 
